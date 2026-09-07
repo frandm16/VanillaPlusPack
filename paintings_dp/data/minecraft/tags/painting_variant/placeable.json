@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "frandm:cielo_estrellado"
+    "frandm:cielo_estrellado",
+    "frandm:metro_budapest_1",
+    "frandm:metro_budapest_2"
   ]
 }

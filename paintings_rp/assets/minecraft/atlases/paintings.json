@@ -3,6 +3,14 @@
     {
       "type": "single",
       "resource": "frandm:painting/cielo_estrellado"
+    },
+    {
+      "type": "single",
+      "resource": "frandm:painting/metro_budapest_1"
+    },
+    {
+      "type": "single",
+      "resource": "frandm:painting/metro_budapest_2"
     }
   ]
 }
