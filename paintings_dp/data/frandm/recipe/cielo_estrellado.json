@@ -4,10 +4,8 @@
   "result": {
     "id": "minecraft:painting",
     "components": {
-      "minecraft:entity_data": {
-        "id": "minecraft:painting",
-        "variant": "frandm:cielo_estrellado_1"
-      }
+      "minecraft:painting/variant": "frandm:cielo_estrellado",
+      "minecraft:item_model": "frandm:cielo_estrellado"
     }
   }
 }

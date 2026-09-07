@@ -43,3 +43,5 @@ build/
 
 run/
 logs/
+
+*.kra
